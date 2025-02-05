@@ -4,7 +4,6 @@
 # Visualizar pacientes cadastrados;
 # Excluir cadastro de pacientes;
 from idlelib.run import exit_now
-# tkinter p/ interface gráfica ?
 
 # criar lista p/ nomes, lista p/ cpf, lista p/ dn, lista p/ contato
 pacientes = []
